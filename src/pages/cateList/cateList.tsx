@@ -1,7 +1,6 @@
 import { ComponentType } from 'react'
 import Taro, { Component, Config } from '@tarojs/taro'
 import { View, Button, Text } from '@tarojs/components'
-import classNames from 'classnames'
 import { observer, inject } from '@tarojs/mobx'
 import { getWindowHeight } from '../../utils/style.js'
 

@@ -31,6 +31,7 @@ class App extends Component {
     pages: [
       'pages/home/home',
       'pages/cateList/cateList',
+      'pages/index/index'
     ],
     window: {
       navigationBarBackgroundColor: '#333431', //导航栏背景色
